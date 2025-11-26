@@ -1,3 +1,4 @@
+# This is a test to check if the commit hook of Jenkins is working well.
 var http = require ('http');
 var request = require('sync-request');
 
